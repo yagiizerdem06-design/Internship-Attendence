@@ -21,3 +21,6 @@ Focus Areas: Clean code practices, component-based architecture, and efficient p
 
 Objective
 The project demonstrates a disciplined approach to fulfilling academic requirements while maintaining professional standards in code structure and documentation. I aim to apply this technical foundation and commitment to a professional internship environment.
+
+
+You can download the project from here https://yagizerdem4.itch.io/internship-attendence
